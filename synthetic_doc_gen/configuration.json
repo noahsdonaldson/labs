@@ -1,0 +1,239 @@
+{
+    "check": {
+        "payee": {
+            "generator": "fullName",
+            "x": 765,
+            "y": 1920,
+            "fontSize": 5,
+            "fontThickness": 2
+        },
+        "payor": {
+            "generator": "fullName",
+            "x": 275,
+            "y": 420,
+            "fontSize": 5,
+            "fontThickness": 2
+        },
+        "amount": {
+            "generator": "dollarAmount",
+            "x": 7020,
+            "y": 1960,
+            "fontSize": 5,
+            "fontThickness": 2
+        },
+        "writtenAmount": {
+            "generator": "writtenAmount",
+            "x": 425,
+            "y": 2350,
+            "fontSize": 5,
+            "fontThickness": 2
+        },
+        "address": {
+            "generator": "address",
+            "x": 275,
+            "y": 620,
+            "fontSize": 5,
+            "fontThickness": 2
+        },
+        "cityStateZip":{
+            "generator": "cityStateZip",
+            "x": 275,
+            "y": 822,
+            "fontSize": 5,
+            "fontThickness": 2
+        },
+        "date": {
+            "generator": "createDate",
+            "x": 7045,
+            "y": 1370,
+            "fontSize": 5,
+            "fontThickness": 2
+        },
+        "memo": {
+            "generator": "shortSentence",
+            "x": 836,
+            "y": 3074,
+            "fontSize": 5,
+            "fontThickness": 2
+        },
+        "signature": {
+            "generator": "signature",
+            "x": 4212,
+            "y": 3090,
+            "fontSize": 7,
+            "fontThickness": 2 
+        },
+        "checknumber": {
+            "generator": "checkNumber",
+            "x": 7350,
+            "y": 534,
+            "fontSize": 5,
+            "fontThickness": 4
+        },
+        "accountnumber": {
+            "generator": "accountNumber",
+            "x": 3540,
+            "y": 3450,
+            "fontSize": 5,
+            "fontThickness": 4
+        }
+    },
+    "check2": {
+        "payee": {
+            "generator": "fullName",
+            "x": 545,
+            "y": 690,
+            "fontSize": 2,
+            "fontThickness": 2
+        },
+        "payor": {
+            "generator": "fullName",
+            "x": 110,
+            "y": 230,
+            "fontSize": 2,
+            "fontThickness": 2
+        },
+        "amount": {
+            "generator": "dollarAmount",
+            "x": 3060,
+            "y": 703,
+            "fontSize": 2,
+            "fontThickness": 2
+        },
+        "writtenAmount": {
+            "generator": "writtenAmount",
+            "x": 264,
+            "y": 870,
+            "fontSize": 2,
+            "fontThickness": 2
+        },
+        "address": {
+            "generator": "address",
+            "x": 110,
+            "y": 300,
+            "fontSize": 2,
+            "fontThickness": 2
+        },
+        "cityStateZip":{
+            "generator": "cityStateZip",
+            "x": 110,
+            "y": 380,
+            "fontSize": 2,
+            "fontThickness": 2
+        },
+        "date": {
+            "generator": "createDate",
+            "x": 2373,
+            "y": 520,
+            "fontSize": 2,
+            "fontThickness": 2
+        },
+        "memo": {
+            "generator": "shortSentence",
+            "x": 440,
+            "y": 1300,
+            "fontSize": 2,
+            "fontThickness": 1
+        },
+        "signature": {
+            "generator": "signature",
+            "x": 2094,
+            "y": 1300,
+            "fontSize": 5,
+            "fontThickness": 2 
+        },
+        "checknumber": {
+            "generator": "checkNumber",
+            "x": 3340,
+            "y": 300,
+            "fontSize": 2.8,
+            "fontThickness": 3
+        },
+        "accountnumber": {
+            "generator": "accountNumber",
+            "x": 795,
+            "y": 1535,
+            "fontSize": 2.8,
+            "fontThickness": 3
+        }
+    },
+    "check3": {
+        "payee": {
+            "generator": "fullName",
+            "x": 180,
+            "y": 190,
+            "fontSize": 0.5,
+            "fontThickness": 1
+        },
+        "payor": {
+            "generator": "fullName",
+            "x": 35,
+            "y": 30,
+            "fontSize": 0.5,
+            "fontThickness": 1
+        },
+        "amount": {
+            "generator": "dollarAmount",
+            "x": 790,
+            "y": 190,
+            "fontSize": 0.5,
+            "fontThickness": 1
+        },
+        "writtenAmount": {
+            "generator": "writtenAmount",
+            "x": 88,
+            "y": 241,
+            "fontSize": 0.5,
+            "fontThickness": 1
+        },
+        "address": {
+            "generator": "address",
+            "x": 35,
+            "y": 60,
+            "fontSize": 0.5,
+            "fontThickness": 1
+        },
+        "cityStateZip":{
+            "generator": "cityStateZip",
+            "x": 35,
+            "y": 90,
+            "fontSize": 0.5,
+            "fontThickness": 1
+        },
+        "date": {
+            "generator": "createDate",
+            "x": 677,
+            "y": 122,
+            "fontSize": 0.5,
+            "fontThickness": 1
+        },
+        "memo": {
+            "generator": "shortSentence",
+            "x": 142,
+            "y": 367,
+            "fontSize": 0.5,
+            "fontThickness": 1
+        },
+        "signature": {
+            "generator": "signature",
+            "x": 505,
+            "y": 367,
+            "fontSize": 1,
+            "fontThickness": 2
+        },
+        "checknumber": {
+            "generator": "checkNumber",
+            "x": 820,
+            "y": 65,
+            "fontSize": 1,
+            "fontThickness": 2
+        },
+        "accountnumber": {
+            "generator": "accountNumber",
+            "x": 315,
+            "y": 406,
+            "fontSize": 0.8,
+            "fontThickness": 1
+        }
+    }
+  }
